@@ -16,10 +16,10 @@ export function FAQSection() {
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
         <Reveal className="text-center">
           <h2 className="text-3xl font-bold tracking-tight text-navy sm:text-4xl lg:text-[2.5rem]">
-            Questions before you book?
+            Answers to Common Marketing Questions from HVAC Contractors in Barrie
           </h2>
           <p className="mt-4 text-base text-muted-fg sm:text-lg">
-            Quick answers to what HVAC owners ask us most.
+            We get asked these questions a lot. Here are the straightforward answers.
           </p>
         </Reveal>
 

@@ -15,10 +15,10 @@ export function FinalCTA() {
       <div className="relative mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
         <Reveal>
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl lg:text-5xl">
-            Ready to see what's possible?
+            Ready to Grow Your HVAC Business in Barrie?
           </h2>
           <p className="mx-auto mt-5 max-w-2xl text-base text-white/90 sm:text-lg">
-            20 minutes. No pitch deck. Just specific fixes for your HVAC business.
+            20 minutes. No time wasting BS. Just specific fixes for your HVAC business that get real results.
           </p>
           <div className="mt-9 flex justify-center">
             <CalendlyModal

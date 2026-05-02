@@ -7,7 +7,7 @@ export function Benefits() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Reveal>
           <h2 className="max-w-3xl text-3xl font-bold tracking-tight text-navy sm:text-4xl lg:text-[2.5rem]">
-            Built for the way HVAC contractors actually grow
+            Marketing Automation Built for the way HVAC contractors actually grow in Barrie
           </h2>
         </Reveal>
         <ul className="mt-12 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4 lg:gap-8">

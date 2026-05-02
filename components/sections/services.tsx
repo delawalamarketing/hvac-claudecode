@@ -7,7 +7,7 @@ export function Services() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Reveal>
           <h2 className="max-w-3xl text-3xl font-bold tracking-tight text-navy sm:text-4xl lg:text-[2.5rem]">
-            Everything you need to dominate local HVAC search
+            Local SEO & Google Ads Services for HVAC Contractors
           </h2>
         </Reveal>
         <ul className="mt-12 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6">

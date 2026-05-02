@@ -8,10 +8,10 @@ export function HowItWorks() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Reveal className="max-w-3xl">
           <h2 className="text-3xl font-bold tracking-tight text-navy sm:text-4xl lg:text-[2.5rem]">
-            From audit to booked jobs in 3 weeks
+            Marketing Done Right. For HVAC Companies in Barrie.
           </h2>
           <p className="mt-4 text-base text-muted-fg sm:text-lg">
-            A simple process. No mystery, no fluff.
+            We’ve built the exact system we would want if we owned an HVAC business. Transparent pricing, clear communication, and a focus on real ROI — not vanity metrics.
           </p>
         </Reveal>
 

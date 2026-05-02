@@ -11,7 +11,7 @@ export function Pricing() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Reveal className="max-w-3xl">
           <h2 className="text-3xl font-bold tracking-tight text-navy sm:text-4xl lg:text-[2.5rem]">
-            Pick the plan that fits where you are
+            HVAC Marketing Pricing Plans
           </h2>
           <p className="mt-4 text-base text-muted-fg sm:text-lg">
             All plans go month-to-month after a 90-day initial term. No long contracts.

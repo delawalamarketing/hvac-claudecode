@@ -17,7 +17,7 @@ export const PHONE_DISPLAY = "(416) 505-0358";
 export const PHONE_TEL = "+14165050358";
 export const EMAIL = "rizwan@delawalamarketing.com";
 export const CALENDLY_URL =
-  process.env.NEXT_PUBLIC_CALENDLY_URL || "https://calendly.com/delawala-marketing/hvac-audit";
+  process.env.NEXT_PUBLIC_CALENDLY_URL || "https://calendly.com/rizwan-delawalamarketing/20-min-hvac-marketing-strategy-session";
 export const SITE_URL = "https://hvac.delawalamarketing.com";
 export const ADDRESS_REGION = "Barrie, ON, Canada";
 export const AREAS_SERVED = ["Barrie, ON", "Simcoe County, ON"];

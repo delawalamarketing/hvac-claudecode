@@ -20,14 +20,13 @@ export function Hero() {
       <div className="relative mx-auto grid max-w-7xl grid-cols-1 items-center gap-10 px-4 sm:px-6 lg:grid-cols-12 lg:gap-12 lg:px-8">
         <div className="lg:col-span-7">
           <h1 className="animate-in fade-in slide-in-from-bottom-2 fill-mode-both text-4xl font-bold tracking-tight text-navy duration-700 sm:text-5xl lg:text-[3.5rem] lg:leading-[1.05]">
-            Get more local HVAC customers — <span className="text-amber">not more clicks.</span>
+            Top HVAC Marketing Agency in Barrie — <span className="text-amber">Get More Local HVAC Customers in Barrie.</span>
           </h1>
           <p
             className="mt-5 max-w-2xl animate-in fade-in slide-in-from-bottom-2 fill-mode-both text-base text-muted-fg delay-150 duration-700 sm:text-lg"
             style={{ animationDelay: "150ms" }}
           >
-            We help Barrie & Simcoe County HVAC contractors book 8–12 furnace, AC, and heat pump
-            installs every month using Google Ads, Local Services Ads, and automated follow-up.
+            We help HVAC contractors in Barrie & Simcoe County book 12–20 furnace, AC, and heat pump installs every month using Google Ads, Local Services Ads, and automated follow-up.
           </p>
           <div
             className="mt-8 flex animate-in flex-col gap-3 fade-in slide-in-from-bottom-2 fill-mode-both duration-700 sm:flex-row sm:items-center"
@@ -36,7 +35,7 @@ export function Hero() {
             <CalendlyModal
               trigger={
                 <Button variant="amber" size="xl" className="w-full sm:w-auto">
-                  Book a free 20-min audit
+                  Book a Free 20-Minute Audit
                 </Button>
               }
             />
