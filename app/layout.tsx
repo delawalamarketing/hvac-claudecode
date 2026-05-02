@@ -92,11 +92,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
+        <MetaPixel />
       </head>
       <body className="bg-bg text-text antialiased">
         {children}
         <GoogleAnalytics />
-        <MetaPixel />
       </body>
     </html>
   );
