@@ -95,11 +95,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
         <GTMHead />
         <MetaPixel />
+        <GoogleAnalytics />
       </head>
       <body className="bg-bg text-text antialiased">
         <GTMBody />
         {children}
-        <GoogleAnalytics />
       </body>
     </html>
   );
