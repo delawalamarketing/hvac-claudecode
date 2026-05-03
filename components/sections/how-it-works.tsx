@@ -11,7 +11,7 @@ export function HowItWorks() {
             Marketing Done Right. For HVAC Companies in Barrie.
           </h2>
           <p className="mt-4 text-base text-muted-fg sm:text-lg">
-            We’ve built the exact system we would want if we owned an HVAC business. Transparent pricing, clear communication, and a focus on real ROI — not vanity metrics.
+            We’ve built the exact system we would want if we owned an HVAC business. Transparent pricing, clear communication, and a focus on real ROI.
           </p>
         </Reveal>
 

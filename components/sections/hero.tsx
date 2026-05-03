@@ -20,7 +20,7 @@ export function Hero() {
       <div className="relative mx-auto grid max-w-7xl grid-cols-1 items-center gap-10 px-4 sm:px-6 lg:grid-cols-12 lg:gap-12 lg:px-8">
         <div className="lg:col-span-7">
           <h1 className="animate-in fade-in slide-in-from-bottom-2 fill-mode-both text-4xl font-bold tracking-tight text-navy duration-700 sm:text-5xl lg:text-[3.5rem] lg:leading-[1.05]">
-            Top HVAC Marketing Agency in Barrie — <span className="text-amber">Get More Local HVAC Customers in Barrie.</span>
+            Get More Local HVAC Customers in <span className="text-amber">Barrie and Simcoe County.</span>
           </h1>
           <p
             className="mt-5 max-w-2xl animate-in fade-in slide-in-from-bottom-2 fill-mode-both text-base text-muted-fg delay-150 duration-700 sm:text-lg"
@@ -51,7 +51,7 @@ export function Hero() {
             className="mt-6 animate-in fade-in fill-mode-both text-sm text-muted-fg duration-700"
             style={{ animationDelay: "450ms" }}
           >
-            Based in Barrie, ON · No long contracts · Free audit, no pitch
+            Based in Barrie, ON · No long contracts · ↖ Free marketing audit
           </p>
         </div>
 
