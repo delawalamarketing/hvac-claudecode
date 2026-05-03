@@ -10,6 +10,7 @@ import {
   PHONE_TEL,
   SITE_URL,
 } from "@/lib/constants";
+import { GTMHead, GTMBody } from "@/components/analytics/google-tag-manager";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -92,9 +93,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
+        <GTMHead />
         <MetaPixel />
       </head>
       <body className="bg-bg text-text antialiased">
+        <GTMBody />
         {children}
         <GoogleAnalytics />
       </body>
