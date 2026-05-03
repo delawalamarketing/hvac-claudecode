@@ -1,7 +1,7 @@
 import Script from "next/script";
 
 export function GoogleAnalytics() {
-  const id = process.env.NEXT_PUBLIC_GA_ID;
+  const id = process.env.NEXT_PUBLIC_GA_ID || "G-56W5Y8CVD1";
   if (!id) return null;
   return (
     <>
@@ -13,9 +13,9 @@ export function GoogleAnalytics() {
         {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
-          window.gtag = gtag;
           gtag('js', new Date());
-          gtag('config', '${id}', { anonymize_ip: true });
+
+          gtag('config', '${id}');
         `}
       </Script>
     </>
